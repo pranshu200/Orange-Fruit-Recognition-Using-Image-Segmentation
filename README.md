@@ -11,7 +11,7 @@ Note: Kindly do not push any changes to Main or Master Branch. Create a New Bran
 
 Don't forget to create an issue before making a PR.
 
-👉 Repo Link : https://github.com/Ayush12062000/Orange-Fruit-Recognition-Using-Image-Segmentation.git
+👉 Repo Link : https://github.com/pranshu200/Orange-Fruit-Recognition-Using-Image-Segmentation.git
 
 ## Table of contents
 * About Project
@@ -25,7 +25,7 @@ and Orange from that image will be segmented using different colors.
 
 ## Dataset
 The Dataset used is self created. You can download the dataset from here - 
-[Orange_Fruit_Dataset](https://github.com/Ayush12062000/Orange-Fruit-Recognition-Using-Image-Segmentation/tree/main/Dataset) , It
+[Orange_Fruit_Dataset](https://drive.google.com/drive/folders/1ZKP-suX3jwnPJvxjGt9vBD6qTUhtX-C6?usp=sharing) , It
 contains 1062 images and 526 images in train and validation folders respectively. There are 2 classes/categories in this
 dataset (0=Not Orange, 1=Orange). 
 
